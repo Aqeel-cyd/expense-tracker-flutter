@@ -2,7 +2,7 @@
 
 A clean expense tracker with interactive charts, built with Flutter Web.
 
-🔗 **Live demo:** https://your-site.netlify.app
+🔗 **Live demo:** (https://spend-pulse-web.netlify.app)
 
 ## Features
 - Add and delete expenses with categories
