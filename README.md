@@ -1,17 +1,19 @@
-# expense_tracker
+# Expense Tracker
 
-A new Flutter project.
+A clean expense tracker with interactive charts, built with Flutter Web.
 
-## Getting Started
+🔗 **Live demo:** https://your-site.netlify.app
 
-This project is a starting point for a Flutter application.
+## Features
+- Add and delete expenses with categories
+- Donut chart of spending by category
+- Bar chart of the last 7 days
+- Month-by-month overview
+- Data saved in the browser
 
-A few resources to get you started if this is your first Flutter project:
+## Tech stack
+Flutter · Dart · fl_chart · shared_preferences · Netlify
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run locally
+flutter pub get
+flutter run -d chrome
